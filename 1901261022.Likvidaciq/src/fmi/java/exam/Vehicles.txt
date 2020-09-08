@@ -1,0 +1,6 @@
+truck;Renault;T440;White;2019;available;20.0;19.5
+car;Toyota;Corolla;Dark Blue;2017;available;5;5;wagon
+truck;Renault;T380;Black;2019;available;40.0;22.0
+car;Toyota;Yaris;Black;2019;not available;3;4;hatchback
+truck;Renault;T380;Blue;2019;not available;40.0;22.0
+car;Toyota;Corolla;Blue;2019;available;5;4;hatchback
